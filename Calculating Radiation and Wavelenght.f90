@@ -1,7 +1,3 @@
-!___________________Name_______________________________
-!__________________Index number________________________
-
-
 program calculate_radiation !
 
   implicit none  ! enforce explicit variable declarations!!
