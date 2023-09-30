@@ -6,7 +6,6 @@ PROGRAM geopotential_height_calculation
 !The calculated geopotential height is then written to the console as output, along with the input parameters for reference.
 
   IMPLICIT NONE
-
   REAL :: latitude, longitude, elevation ! input parameters
   REAL :: temperature, pressure, humidity ! input atmospheric parameters
   REAL :: geopotential_height ! output
