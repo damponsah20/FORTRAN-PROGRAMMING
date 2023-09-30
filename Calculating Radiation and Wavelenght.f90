@@ -30,8 +30,6 @@ program calculate_radiation !
     ! Calculate the wavelength of the radiation using the energy and Planck's constant
     wavelength(index) = PLANCK * SPEED_OF_LIGHT / energy(index) 
 
-
-
     ! Print the temperature, energy, wavelength, and frequency to the console using a loop
     write(*, '( F5.1, " K", 5x , E13.2, " J", 6x , E13.2, " m")') temperature(index), energy(index), wavelength(index) 
 
