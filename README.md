@@ -1,2 +1,2 @@
 # MET253
-Course works and assignment for Programming with FORTRAN 
+Course works and assignments for Programming with FORTRAN 
